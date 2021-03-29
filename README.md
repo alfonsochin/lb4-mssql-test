@@ -5,7 +5,7 @@ This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/
 
 ## MS SQL Server Installation & Configuration
 
-- Download the SQL Server 2019 Developer from [here](https://www.-microsoft.com/en-us/sql-server/sql-server-downloads)
+- Download the SQL Server 2019 Developer from [here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - Follow through the installation steps
 - To help with administration download SQL Server Studio [here](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 - Install SQL Server Management Studio
